@@ -18,6 +18,10 @@ public class StreamFilterDemo1 {
         System.out.println(evenList);
         numberList.stream().filter(n->n%2 !=0).forEach(x-> System.out.println(x));
         //numberList.stream().filter(n->n%2 !=0).forEach(System.out::println);
+        System.out.println("Sample 1");
+        System.out.println("Sample 2");
+        System.out.println("Sample 3");
+
 
     }
 }
