@@ -27,6 +27,10 @@ public class StreamFilterDemo1 {
         System.out.println("Sample 7");
         System.out.println("Sample 8");
 
+        System.out.println("Sample 9");
+        System.out.println("Sample 9");
+        System.out.println("Sample 9");
+
 
     }
 }

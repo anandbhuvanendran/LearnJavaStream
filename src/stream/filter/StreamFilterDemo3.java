@@ -14,5 +14,9 @@ public class StreamFilterDemo3 {
 
        List<String> nullRemoved = wordList.stream().filter(Objects::nonNull).collect(Collectors.toList());
         System.out.println(nullRemoved);
+
+        System.out.println("Sample 1");
+        System.out.println("Sample 2");
+        System.out.println("Sample 3");
     }
 }
