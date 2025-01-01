@@ -19,5 +19,7 @@ public class StreamFilterDemo2 {
         System.out.println("Sample 2");
         System.out.println("Sample 3");
 
+        System.out.println("Addded by x");
+
     }
 }
